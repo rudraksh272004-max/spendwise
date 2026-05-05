@@ -1,2 +1,1 @@
-# spendwise
-a spending app
+
